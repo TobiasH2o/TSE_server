@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Tobias Heatlie/CLionProjects/TSE-server/SQL.cpp
+SQL.h
+/cygdrive/c/Users/Tobias Heatlie/CLionProjects/TSE-server/SQL.h
+iostream
+-
+
+/cygdrive/c/Users/Tobias Heatlie/CLionProjects/TSE-server/SQL.h
+iostream
+-
+
+/cygdrive/c/Users/Tobias Heatlie/CLionProjects/TSE-server/main.cpp
+SQL.cpp
+/cygdrive/c/Users/Tobias Heatlie/CLionProjects/TSE-server/SQL.cpp
+iostream
+-
+
